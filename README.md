@@ -1,4 +1,3 @@
-# privacy-policy
 # Privacy Policy for Calmind
 Effective Date: 15 /05 /2025
 
